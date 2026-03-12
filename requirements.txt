@@ -1,5 +1,0 @@
-selenium
-pandas
-webdriver-manager
-lxml
-html5lib
